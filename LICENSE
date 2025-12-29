@@ -1,59 +1,50 @@
-# DragonLabs MIT+ License
+DragonLabs MIT+ License
 
-**Copyright © 2025 Hopingboyz**  
-**All Rights Reserved**
+Copyright © 2025 deepak_king_97
+All Rights Reserved
 
-## Permissions
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, subject to the following conditions:
 
-Subject to the conditions below, permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to:
-
-- **Use** - Execute and run the Software for any purpose, private or commercial
-- **Copy** - Reproduce the Software
-- **Modify** - Create derivative works based on the Software
-- **Merge** - Combine the Software with other software
-- **Publish** - Share the Software publicly
-- **Distribute** - Redistribute copies of the Software
-- **Sublicense** - Permit use by others under different terms
-- **Sell** - Commercialize the Software or derivative works
-
-## Conditions
-
-1. **Attribution Requirement**  
-   All copies or substantial portions must include:
-   - The original copyright notice
+1. Attribution Requirement  
+   All copies or substantial portions of the Software must include:
+   - The above copyright notice
    - This permission notice
-   - Any prominent credits (including in UI and documentation)
+   - Proper credit in documentation and/or user interface
 
-2. **Modification Notice**  
+2. Modification Notice  
    Modified versions must:
-   - Be clearly marked as altered from the original
-   - Document changes made
-   - Not imply official status
+   - Be clearly marked as modified
+   - Document the changes made
+   - Not imply official endorsement
 
-3. **Brand Protection**  
-   The Software may not be presented as officially endorsed by DragonLabs or Hopingboyz without express written permission.
+3. Brand Protection  
+   The Software may not be presented as officially endorsed by DragonLabs
+   or deepak_king_97 without prior written permission.
 
-## Limitations
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
-### Warranty Disclaimer
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS, DRAGONLABS, OR COPYRIGHT HOLDERS BE LIABLE FOR
+ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE
+OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-### Liability Limitation
-IN NO EVENT SHALL THE AUTHORS, DRAGONLABS, OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES (INCLUDING LOST PROFITS, DATA, OR BUSINESS INTERRUPTION), OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE.
+Additional Provisions:
 
-## Optional Provisions
+- Patent Grant:  
+  Users are granted an implicit license to any patents necessarily infringed
+  by use of the Software.
 
-### Patent Grant
-Users receive an implicit license to any patents necessarily infringed by the Software.
+- Trademark Protection:  
+  "DragonLabs" and related trademarks remain the exclusive property of the
+  copyright holder.
 
-### Trademark Protection
-"DragonLabs" and related marks remain the exclusive property of the copyright holder and may not be used without permission.
+- Ethical Use Clause:  
+  The Software may not be used for illegal, harmful, or unethical purposes.
 
-### Ethical Use Clause
-The Software may not be used for:
-- Illegal activities
-- Systems that may cause harm
-- Unethical applications as determined by the copyright holder
-
-## Versioning
-This is version 1.0 of the DragonLabs MIT+ License.
+Version: 1.0
